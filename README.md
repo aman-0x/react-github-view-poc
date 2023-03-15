@@ -21,10 +21,10 @@ I used axios to fetch the data from the github api.
 
 ## Screenshots
 ### Home Page
-<img src="https://github.com/aman-0x/react-app-github-view-poc/blob/main/screenshot/sc1.png">
+<img src="https://github.com/aman-0x/react-github-view-poc/blob/main/screenshot/sc1.png">
 
 ### Searching
-<img src="https://github.com/aman-0x/react-app-github-view-poc/blob/main/screenshot/sc2.png">
+<img src="https://github.com/aman-0x/react-github-view-poc/blob/main/screenshot/sc2.png">
 
 ### Details Page
-<img src="https://github.com/aman-0x/react-app-github-view-poc/blob/main/screenshot/sc3.png">
+<img src="https://github.com/aman-0x/react-github-view-poc/blob/main/screenshot/sc3.png">
