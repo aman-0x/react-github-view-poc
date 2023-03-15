@@ -1,0 +1,58 @@
+.details{
+    margin-top: 70px;
+    padding: 20px 40px 40px 40px;
+}
+
+.details-header{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 1px #e7e7e7;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.details-header-inner{
+    display: flex;
+}
+
+.avatar{
+    padding: 20px;
+}
+.avatar-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-color: black;
+    border: 2px grey solid;
+    box-shadow: 0px 15px 30px -5px grey;
+}
+
+.user-data{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+h4{
+    font-size: 20px;
+    font-family: 'Poppins';
+}
+
+.repo-details{
+    margin-top: 20px;
+}
+
+.repo-details-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.description {
+    margin: 8px;
+    font-size: 20px;
+    font-family: 'Poppins';
+}

@@ -1,0 +1,50 @@
+.home-body{
+    margin-top: 76px;
+    padding-top:10px;
+    padding: 40px;
+
+}
+
+.search-field{
+  display: flex;
+  justify-content: end;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 10px;
+  margin-left: 80%;
+}
+.clear-search{
+  display: flex;
+  justify-content: end;
+}
+
+.repository-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    gap: 2rem;
+    margin-top: 76px;
+    padding: 40px;
+    padding-bottom: 40px;
+  }
+  
+  .repository {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+  }
+
+  .repository:hover {
+    background-color: #ffffff;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .repository:active{
+    transform: translateY(2px);
+  }
+  
+  .repository h2 {
+    margin-top: 0;
+  }
